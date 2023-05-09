@@ -1,7 +1,13 @@
-.gif{
-    height: 300px;
-    width: 300px;
+.container{
+    display: flex;
     margin: auto;
+}
+
+.gif{
+    display: block;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .header
